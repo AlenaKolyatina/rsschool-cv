@@ -116,4 +116,4 @@ console.log(sum);
 - french - B1 (TCF) 
 
  
-https://Alena Kolyatina.github.io/rsschool-cv/
+https://AlenaKolyatina.github.io/rsschool-cv/
